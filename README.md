@@ -2,6 +2,8 @@
 
 A small Python utility that organizes files by type. It can copy or move files from one or more folders into a structured target folder, handles duplicate names automatically, and writes a detailed report.
 
+> Built with AI coding models. Designed from real workflow problems.
+
 ## Features
 
 - GUI and command-line modes
@@ -12,6 +14,10 @@ A small Python utility that organizes files by type. It can copy or move files f
 - UTF-8 paths and localized UI text
 - JSON language packs in `locales/`
 - Configurable file categories in `config.json`
+
+## Download
+
+Download source archives and future packaged builds from [GitHub Releases](https://github.com/mococouo/file-organizer/releases), or run directly from this repository with Python.
 
 ## Languages
 
