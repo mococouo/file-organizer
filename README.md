@@ -105,6 +105,6 @@ Use copy mode the first time you run the tool. Review the output folder and `org
 - Python 3.8 or newer recommended
 - Tkinter for the GUI. It is included with most Python installers.
 
-## Project Status
+## License
 
-This project is ready to publish as a small utility, but choose a license before accepting outside contributions. If you want a standard open-source license, MIT is a common fit for this kind of tool.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
